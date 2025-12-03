@@ -3,7 +3,7 @@
 `system analysis`, `research engineering`, `modeling`, `prototyping`, `R&D`, `technical & user documentation`
 
 ## Introduction
-Hi! I'm a systems analyst, researcher and a rather obsessive diagram‑maker. I enjoy hunting for information and then structuring it into something clear and workable.
+Hi! I'm a system analyst, researcher and a rather obsessive diagram‑maker. I enjoy hunting for information and then structuring it into something clear and workable.
 
 I'm a bit like GPT, but I function on fragmentary technical inputs - and far, far slower. Once I gather enough ibformaion, I usually see how a system could be designed, what features it might require, and how its internal logic should behave. When the idea is settled, I can produce technical and functional specifications, interface prototypes, structured reports and even custom journey and value maps.
 
